@@ -1,3 +1,12 @@
+
+.myCSS {
+  background-color: red;
+}
+.notwarning {
+  background-color: blue;
+}
+
+
 .App {
   text-align: center;
 }
